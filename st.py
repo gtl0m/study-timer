@@ -115,7 +115,7 @@ class StudyApp:
         """主菜单循环"""
         clear_screen()
         print(f"{Colors.HEADER}========================================{Colors.ENDC}")
-        print(f"{Colors.HEADER}       📚 学习倒计时管理器 v1.2       {Colors.ENDC}")
+        print(f"{Colors.HEADER}       📚 学习倒计时管理器 v1.3       {Colors.ENDC}")
         print(f"{Colors.HEADER}========================================{Colors.ENDC}")
         print(f"{Colors.YELLOW}按 's' 退出软件{Colors.ENDC}\n")
         
